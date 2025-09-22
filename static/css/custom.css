@@ -2,7 +2,7 @@
 text-transform: none
 }
 
-#matomo-opt-out {
-border: 1pt solid grey;
-padding: 12px;
+#matomo-opt-out input {
+margin-right: 10px;
+margin-bottom: 4px;
 }

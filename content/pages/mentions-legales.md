@@ -27,4 +27,5 @@ J’utilise pour cela [Matomo](https://matomo.org/), un outil [libre](https://ma
 
 Matomo propose ce formulaire pour désactiver le suivi :
 
-<div id="matomo-opt-out"></div>
+<div style="border: 1pt solid grey; padding: 12px;" id="matomo-opt-out"></div>
+<script src="https://analytics.maudry.com/index.php?module=CoreAdminHome&action=optOutJS&divId=matomo-opt-out&language=auto&showIntro=1"></script>

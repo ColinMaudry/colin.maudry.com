@@ -3,7 +3,7 @@ date = '2025-09-19T10:01:08+02:00'
 draft = false
 title = 'La petite histoire de decp.info 📖'
 tags = []
-categories= ["decp.info"]
+categories= []
 +++
 
 En 2021, après trois années à accompagner des administrations sur l'ouverture de données de marchés publics, j'ai développé decp.info v1 pour répondre à un besoin d'une meilleure accessibilité de ces données. La consolidation de données chaotique du Ministère des Finances m'a fait abandonner le projet, les décisions budgétaires de Donald Trump m'ont mené à le reprendre.
@@ -12,7 +12,7 @@ En 2021, après trois années à accompagner des administrations sur l'ouverture
 
 ## Rendre les données accessibles
 
-Je travaille sur la consolidation des données essentielles de la commande publique (DECP) depuis près de 10 ans. L'aventure
+Je travaille sur la consolidation des données essentielles de la commande publique (DECP, voir [mon article dédié](/posts/2025-09-15-les-decp/)) depuis près de 10 ans. L'aventure
 a commencé lorsque j'ai accompagné la Direction des Affaires Juridiques (DAJ) de Bercy pour la rédaction de [l'arrêté du
 14 avril 2017](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034492587), qui instaurait l'obligation pour les acheteurs de publier les données essentielles de leurs attributions de marché dans un format ouvert, via leur profil d'acheteur. Et depuis, je n'ai pas arrêté de contribuer à cette ouverture de données, que ce soit en France (Région Bretagne, GIP Maximilien) ou à l'étranger via l'[Open Contracting Partnership](https://open-contracting.org).
 
@@ -29,5 +29,5 @@ Le tournant a semble t-il été compliqué pour l'écosystème technique (Minist
 
 ## Février 2025 : Trump me coupe les vivres
 
-En février, l'administration américaine coupe l'intégralité du budget de l'aide au développement, qui finançait notamment des projets d'ouverture de données marchés publics à l'international, dont certains pilotés par l'Open Contracting Partership, mon principal client. Logiquement, l'ONG internalise la majorité des projets qu'elle m'avait confiés, et je me retrouve avec beaucoup de temps libre. Je me suis donc lancé dans la v2 de decp.info.
+En février, l'administration américaine coupe l'intégralité du budget de l'aide au développement, qui finançait notamment des projets d'ouverture de données marchés publics à l'international, dont certains pilotés par l'Open Contracting Partership, mon principal client. Logiquement, l'ONG internalise la majorité des projets qu'elle m'avait confiés, et je me retrouve avec beaucoup de temps libre. Je me suis donc lancé dans [la v2 de decp.info](/posts/2025-09-20-sortie-de-decp.info-v2/).
 

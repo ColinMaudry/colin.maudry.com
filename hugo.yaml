@@ -1,0 +1,56 @@
+baseURL: https://colin.maudry.com
+languageCode: fr
+defaultContentLanguage: fr
+title: colin.maudry
+theme: roadster
+Params:
+  post_meta:
+    - author
+    - date
+    - categories
+  googleFontsLink: false
+  customCSS:
+    - css/custom.css
+  sidebar:
+    home: right
+    list: right
+    single: right
+    widgets:
+      - categories
+      - taglist
+      - social
+      - sidemenu
+
+  widgets:
+    social:
+      github: ColinMaudry
+      linkedin: colinmaudry
+      email: colin@maudry.com
+      cached: false
+      custom:
+         - title: decp.info
+           url: https://decp.info
+    categories:
+      cached: false
+    taglist:
+      cached: false
+  style:
+    vars:
+      fontFamilyPrimary:
+        system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica
+        Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color
+        Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'
+      fontFamilySecondary:
+        SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono',
+        'Courier New', monospace
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+languages:
+  fr:
+    disabled: false
+    languageCode: fr
+    languageDirection: ltr
+    languageName: Français
+    weight: 0

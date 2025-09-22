@@ -6,7 +6,7 @@ menu = 'side'
 weight = 6
 +++
 
-- Email : [colin+decp@maudry.com](mailto:colin+decp@maudry.com)
+- Email : [colin@maudry.com](mailto:colin@maudry.com)
 - venez discuter de la transparence de la commande publique [sur le forum teamopendata.org](https://teamopendata.org/c/commande-publique/101)
 - LinkedIn : [colinmaudry](https://www.linkedin.com/in/colinmaudry/)
 - Bluesky : [@col1m.bsky.social](https://bsky.app/profile/col1m.bsky.social)

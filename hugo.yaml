@@ -25,7 +25,6 @@ Params:
     social:
       github: ColinMaudry
       linkedin: colinmaudry
-      email: colin@maudry.com
       cached: false
       custom:
          - title: decp.info

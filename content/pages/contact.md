@@ -1,6 +1,6 @@
 +++
 date = '2025-09-22T20:23:25+02:00'
-draft = true
+draft = false
 title = 'Contact'
 menu = 'side'
 weight = 6

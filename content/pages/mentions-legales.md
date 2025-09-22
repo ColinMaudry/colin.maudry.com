@@ -1,6 +1,6 @@
 +++
 date = '2025-09-22T20:31:53+02:00'
-draft = true
+draft = false
 title = 'Mentions légales'
 menu = 'side'
 +++

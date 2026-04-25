@@ -13,6 +13,10 @@ Siège social : 1 carrefour Jouaust, 35000 Rennes.
 
 Hébergement : serveur situé en France et administré par Scaleway, 8 rue de la Ville l’Evêque, 75008 Paris.
 
+## Licence des contenus
+
+L'intégralité des articles de ce blog est publiée selon les termes de la licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
+
 ## Suivi d'audience
 
 Ce site dépose un petit fichier texte (un « cookie ») sur votre ordinateur lorsque vous le consultez ([Wikipédia](https://fr.wikipedia.org/wiki/Cookie_(informatique))). Cela me permet de mesurer le nombre de visites et de distinguer les nouveaux visiteurs des utilisateurs réguliers.
@@ -25,7 +29,7 @@ Rien d’exceptionnel, je respecte simplement la loi, qui dit que certains outil
 
 J’utilise pour cela [Matomo](https://matomo.org/), un outil [libre](https://matomo.org/free-software/), paramétré pour être en conformité avec [la recommandation « Cookies »](https://www.cnil.fr/fr/solutions-pour-les-cookies-de-mesure-daudience) de la CNIL. Cela signifie que votre adresse IP, par exemple, est anonymisée avant d’être enregistrée. Il m’est donc impossible d’associer vos visites sur ce site à votre personne.
 
-Matomo propose ce formulaire pour désactiver le suivi :
+Matomo propose cependant ce formulaire si vous souhaitez totalement désactiver le suivi de vos sessions sur ce site :
 
-<div style="border: 1pt solid grey; padding: 12px;" id="matomo-opt-out"></div>
+<div style="border: 1pt solid grey; padding: 12px;" id="matomo-opt-out">Vous utilisez un bloqueur de suivi.</div>
 <script src="https://analytics.maudry.com/index.php?module=CoreAdminHome&action=optOutJS&divId=matomo-opt-out&language=auto&showIntro=1"></script>

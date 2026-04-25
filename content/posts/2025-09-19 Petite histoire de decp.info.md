@@ -6,7 +6,7 @@ tags = []
 categories= []
 +++
 
-En 2021, après trois années à accompagner des administrations sur l'ouverture de données de marchés publics, j'ai développé decp.info v1 pour répondre à un besoin d'une meilleure accessibilité de ces données. La consolidation de données chaotique du Ministère des Finances m'a fait abandonner le projet, les décisions budgétaires de Donald Trump m'ont mené à le reprendre.
+En 2021, après trois années à accompagner des administrations sur l'ouverture de données de marchés publics, j'ai développé decp.info v1 pour répondre à un manque d'accessibilité de ces données. La consolidation de données chaotique du Ministère des Finances m'a fait abandonner le projet, les décisions budgétaires de Donald Trump m'ont mené à le reprendre.
 
 <!--more-->
 

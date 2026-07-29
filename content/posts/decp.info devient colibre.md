@@ -4,12 +4,7 @@ draft = false
 title = 'decp.info devient colibre, et ça change tout'
 +++
 
-Je viens de mettre en ligne la troisième version majeure de ma suite d'outils d'exploration des marchés publics.
-
-- la v1 était une preuve de concept
-- la v2, mise en production en septembre 2025, a multiplié le nombre d'outils et a fait connaître le projet
-
-Pour marquer le bond de maturité dans le projet, cette v3 s'accompagne d'un renommage, decp.info devient [**colibre**](https://colibre.fr). Plus facile à retenir, ce nouveau nom incarne l'ouverture du projet (code libre, données en [Open Data](https://colibre.fr/a-propos/donnees), projet collaboratif) et ouvre aussi la porte au traitement d'autres données que les Données Essentielles de la Commande Publique (BOAMP, Approch, etc.).
+Je viens de mettre en ligne la troisième version majeure de ma suite d'outils d'exploration des marchés publics. Pour marquer le bond de maturité dans le projet, cette v3 s'accompagne d'un renommage, decp.info devient [**colibre**](https://colibre.fr). Plus facile à retenir, ce nouveau nom incarne l'ouverture du projet (code libre, données en [Open Data](https://colibre.fr/a-propos/donnees), projet collaboratif) et ouvre aussi la porte au traitement d'autres données que les Données Essentielles de la Commande Publique (BOAMP, Approch, etc.).
 
 [colibre](https://colibre.fr) professionnalise davantage la solution avec une interface un peu plus travaillée (il reste du boulot !), de meilleures performances, et voit surtout l'arrivée des abonnements, déterminants pour la pérennité de ce fragile projet. Mais c'est plus compliqué que ça. Rentrons dans les détails, et je vous parlerai des nouvelles fonctionnalités et de la vision dans un second article.
 

@@ -39,6 +39,7 @@ J'ai choisi de m'appuyer sur les facteurs suivants :
 - durée du marché
 - population (si c'est une commune)
 - catégorie de l'entreprise titulaire (PME, entreprise intermédiaire, grande entreprise)
+- catégorie de l'acheteur (commune, groupement de commune, État, région, etc.)
 - technique d'achat (marché ou accord cadre)
 - type d'achat (deux premiers chiffres du code CPV)
 -

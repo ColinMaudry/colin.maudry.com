@@ -1,5 +1,5 @@
 baseURL: https://colin.maudry.com
-languageCode: fr
+locale: fr
 defaultContentLanguage: fr
 title: colin.maudry
 theme: roadster
@@ -49,7 +49,7 @@ markup:
 languages:
   fr:
     disabled: false
-    languageCode: fr
-    languageDirection: ltr
-    languageName: Français
+    locale: fr
+    direction: ltr
+    label: Français
     weight: 0

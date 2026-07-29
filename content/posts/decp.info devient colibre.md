@@ -13,6 +13,8 @@ Pour marquer le bond de maturité dans le projet, cette v3 s'accompagne d'un ren
 
 [colibre](https://colibre.fr) professionnalise davantage la solution avec une interface un peu plus travaillée (il reste du boulot !), de meilleures performances, et voit surtout l'arrivée des abonnements, déterminants pour la pérennité de ce fragile projet. Mais c'est plus compliqué que ça. Rentrons dans les détails, et je vous parlerai des nouvelles fonctionnalités et de la vision dans un second article.
 
+![Bannière colibre](/images/og-image.png)
+
 ## Un abonnement mensuel à 20 euros HT
 
 Tout d'abord une précision : seules les fonctionnalités les plus avancées exigent un abonnement. À part le partage de vues sur les données, **toutes les fonctionnalités présentes dans decp.info restent gratuites dans colibre**.
@@ -26,6 +28,10 @@ Depuis quelques mois, les retours que je recevais des utilisateurs racontaient l
 Voilà pourquoi pendant deux mois vous n'avez pas vu beaucoup d'évolutions sur decp.info : [colibre](https://colibre.fr) déployait peu à peu ses ailes.
 
 20 euros. C'est rond, c'est simple, d'après ma courte étude de marché ce n'est pas cher compte tenu des fonctionnalités proposées. D'autant plus que de nombreuses autres [arrivent](https://colibre.fr/a-propos/roadmap). Si cet abonnement ne fonctionne pas, je devrai mettre en pause le développement et me chercher un "vrai" travail.
+
+## Une API pour alimenter vos applications
+
+J'ai également mis en ligne une API JSON riche, accessible via un abonnement spécifique. La documentation technique est [ici](https://colibre.fr/api/v1/swagger). Si cela vous intéresse pour alimenter vos applicatiosn en direct avec des données de qualité, [contactez-moi](https://colibre.fr/a-propos/contact).
 
 ## Concevoir avec vous
 

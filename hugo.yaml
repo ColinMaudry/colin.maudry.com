@@ -27,8 +27,8 @@ Params:
       linkedin: colinmaudry
       cached: false
       custom:
-         - title: decp.info
-           url: https://decp.info
+         - title: colibre.fr
+           url: https://colibre.fr
     categories:
       cached: false
     taglist:

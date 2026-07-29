@@ -6,7 +6,7 @@ menu = 'side'
 weight = 6
 +++
 
-- [Formulaire de contact](https://decp.info/contact)
+- Email : [colin@colmo.tech](mailto:colin@colmo.tech)
 - LinkedIn : [colinmaudry](https://www.linkedin.com/in/colinmaudry/)
 - Bluesky : [@col1m.bsky.social](https://bsky.app/profile/col1m.bsky.social)
 - Mastodon : [col1m@mamot.fr](https://mamot.fr/@col1m)

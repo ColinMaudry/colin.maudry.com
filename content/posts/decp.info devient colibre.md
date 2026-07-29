@@ -26,7 +26,7 @@ Voilà pourquoi pendant deux mois vous n'avez pas vu beaucoup d'évolutions sur 
 
 ## Une API pour alimenter vos applications
 
-J'ai également mis en ligne une API JSON riche, accessible via un abonnement spécifique. La documentation technique est [ici](https://colibre.fr/api/v1/swagger). Si cela vous intéresse pour alimenter vos applicatiosn en direct avec des données de qualité, [contactez-moi](https://colibre.fr/a-propos/contact).
+J'ai également mis en ligne une API JSON riche, accessible via un abonnement spécifique. La documentation technique est [ici](https://colibre.fr/api/v1/swagger). Si cela vous intéresse pour alimenter vos applications en direct avec des données de qualité, [contactez-moi](https://colibre.fr/a-propos/contact).
 
 ## Concevoir avec vous
 

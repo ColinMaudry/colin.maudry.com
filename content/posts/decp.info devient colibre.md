@@ -53,7 +53,7 @@ De nombreuses personnes et organismes poussent dans la même direction :
 
 - des parlementaires comme Simon Uzenat et Dany Wattebled avec [leur commission d'enquête sénatoriale](https://www.senat.fr/travaux-parlementaires/structures-temporaires/commissions-denquete/commission-denquete-sur-les-couts-et-les-modalites-effectifs-de-la-commande-publique-et-la-mesure-de-leur-effet-dentrainement-sur-leconomie-francaise.html)
 - des acheteuses comme Magali Chamla-Pernin avec son site [magaliparlemarches.fr](https://magaliparlemarches.fr/), ainsi que les autres membres de l'Association des Acheteurs Publics
-- des entrepreneurs comme Victor Lavolé (Temi), Blaise Malta-Bey, Nicolas Valoo (M2BPO), Jessica Poles (Timao), Tanguy Le Hir (Deadline), Alan Bourhis (PublikConnect) et Samuel Goëta (Datactivist)
+- des entrepreneurs comme Victor Lavolé (Temi), Blaise Malta-Bey, Nicolas Valoo (M2BPO), Jessica Poles (Timao), Tanguy Le Hir (Deadline), Fara Zaoui (Probitas), Alan Bourhis (PublikConnect) et Samuel Goëta (Datactivist)
 - des lobbyistes comme Kévin Gernier (Transparency International France) avec [Integrity Watch](https://www.integritywatch.fr/), Emma Taillefer (Anticor) et Karolis Granickas (Open Contracting Partnership)
 - et des chercheurs comme Pierre-Henri Morand et Adrien Deschamps (Université d'Avignon)
 
